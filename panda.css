@@ -51,3 +51,12 @@
     background-color: white;
     border-top: none;
 }
+#Contact-us{
+height: 200px;
+}
+#Contact-us h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+}
